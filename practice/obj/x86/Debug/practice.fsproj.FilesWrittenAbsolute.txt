@@ -1,0 +1,5 @@
+/home/jacqueline/F-sharp/practice/practice/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/practice/practice/bin/Debug/practice.exe.mdb
+/home/jacqueline/F-sharp/practice/practice/bin/Debug/practice.exe
+/home/jacqueline/F-sharp/practice/practice/obj/x86/Debug/practice.exe
+/home/jacqueline/F-sharp/practice/practice/obj/x86/Debug/practice.exe.mdb
